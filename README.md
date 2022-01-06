@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+### I'm Anil Maharjan. Thanks for visiting my profile
+
+##### React, React Native (App Developer / Frontend developer)
 
 <!--
 **anil-maharjan/anil-maharjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
